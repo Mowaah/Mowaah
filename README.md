@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm Mohamed Bahaa, a passionate frontend developer
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-bahaa123/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:mohamed.bahaa5300@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://x.com/MohaBOF"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
 # 💻 Tech Stack:

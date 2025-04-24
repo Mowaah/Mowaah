@@ -37,4 +37,7 @@ Welcome to my GitHub profile! I'm Mohamed Bahaa, a passionate frontend developer
 # 📊 GitHub Stats:
 [![My Awesome Stats](https://github-readme-stats.vercel.app/api?username=Mowaah&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
+# 📅 All-Time Contribution Graph:
+![My Contribution Graph](https://metrics.lecoq.io/Mowaah?template=classic&base.header=0&isocalendar=1&isocalendar.duration=full&config.timezone=Africa/Cairo)
+
 ---

@@ -1,6 +1,6 @@
 # 💫 About Me:
 Welcome to my GitHub profile! I'm Mohamed Bahaa, a passionate frontend developer from Egypt. I specialize in crafting responsive and user-friendly web and mobile applications with modern tools and frameworks.<br><br>
-![](https://komarev.com/ghpvc/?username=MazenTarek7&color=blue&style=for-the-badge)<br>
+![](https://komarev.com/ghpvc/?username=Mowaah&color=blue&style=for-the-badge)<br>
 
 ## 🌐 Socials:
 <p align="center">

@@ -35,6 +35,7 @@ Welcome to my GitHub profile! I'm Mohamed Bahaa, a passionate frontend developer
 ![AsyncStorage](https://img.shields.io/badge/asyncstorage-%23FFCA28.svg?style=for-the-badge&logo=react&logoColor=black)
 
 # 📊 GitHub Stats:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mowaah?cardType=github&theme=radical&preferLogin=false&border=false)](https://git.io/awesome-stats-card)<br/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mowaah&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 

@@ -1,39 +1,40 @@
-Hey there! 👋 I'm Mohamed Bahaa
+# 💫 About Me:
+Welcome to my GitHub profile! I'm Mohamed Bahaa, a passionate frontend developer from Egypt. I specialize in crafting responsive and user-friendly web and mobile applications with modern tools and frameworks.<br><br>
 
-## About Me:
-Welcome to my GitHub profile! I'm Mohamed Bahaa, a passionate frontend developer from Egypt. I specialize in building responsive, user-friendly web and mobile applications with modern technologies.
+## 🌐 Socials:
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://twitter.com/yourprofile"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+</p>
 
-## Socials:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
-- [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:your.email@example.com)
-- [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/yourprofile)
-
-## Tech Stack:
+# 💻 Tech Stack:
 ### Frontend Development 🚀
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat) 
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black&style=flat)  
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat) 
-![Context API](https://img.shields.io/badge/Context%20API-61DAFB?logo=react&logoColor=black&style=flat)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) 
-![SASS/SCSS](https://img.shields.io/badge/SASS%2FSCSS-CC6699?logo=sass&logoColor=white&style=flat)  
-![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?logo=material-ui&logoColor=white&style=flat) 
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcn&logoColor=white&style=flat)  
-![React Native Paper](https://img.shields.io/badge/React%20Native%20Paper-4A90E2?logo=react&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
+![React Native](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![Context API](https://img.shields.io/badge/context%20api-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![SASS/SCSS](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)  
+![Material UI](https://img.shields.io/badge/material%20ui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcn&logoColor=white)  
+![React Native Paper](https://img.shields.io/badge/react%20native%20paper-%234A90E2.svg?style=for-the-badge&logo=react&logoColor=white)
 
 ### Tools & Concepts 🛠️
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat) 
-![REST API](https://img.shields.io/badge/REST%20API-000000?logo=rest&logoColor=white&style=flat) 
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat)  
-![React Navigation](https://img.shields.io/badge/React%20Navigation-61DAFB?logo=react&logoColor=black&style=flat)  
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-00C7B7?logo=responsive-design&logoColor=white&style=flat)  
-![Mobile Development](https://img.shields.io/badge/Mobile%20Development-4285F4?logo=mobile&logoColor=white&style=flat)  
-![AsyncStorage](https://img.shields.io/badge/AsyncStorage-FFCA28?logo=react&logoColor=black&style=flat)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![REST API](https://img.shields.io/badge/rest%20api-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white) 
+![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)  
+![React Navigation](https://img.shields.io/badge/react%20navigation-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Responsive Design](https://img.shields.io/badge/responsive%20design-%2300C7B7.svg?style=for-the-badge&logo=responsive-design&logoColor=white)  
+![Mobile Development](https://img.shields.io/badge/mobile%20development-%234285F4.svg?style=for-the-badge&logo=mobile&logoColor=white)  
+![AsyncStorage](https://img.shields.io/badge/asyncstorage-%23FFCA28.svg?style=for-the-badge&logo=react&logoColor=black)
 
-## GitHub Stats:
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula&hide_border=true)
+# 📊 GitHub Stats:
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/yourusername?cardType=github&theme=radical&preferLogin=false&border=false)](https://git.io/awesome-stats-card)<br/>
+
+---
